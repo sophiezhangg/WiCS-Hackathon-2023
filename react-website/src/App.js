@@ -8,6 +8,7 @@ import Layout from './layout/Layout'
 import Home from './components/pages/Home'
 import SignUp from './components/pages/SignUp'
 import Start from './components/pages/Start'
+import AboutUs from './components/pages/AboutUs'
 import './App.css';
 
 function App() {
@@ -18,7 +19,9 @@ function App() {
           <Switch>
           <Route path={'/Start'} component={Start}></Route>
             <Route path={'/SignUp'} component={SignUp}></Route>
+            <Route path={'/AboutUs'} component={AboutUs}></Route>
             <Route path={'/'} component={Home}></Route>
+            
           </Switch>
         </Layout>
       </Router>

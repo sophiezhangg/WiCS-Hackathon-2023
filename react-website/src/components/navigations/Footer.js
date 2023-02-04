@@ -8,9 +8,10 @@ const MenuBar = () => {
         <footer >
             <div className="footer">
                 <ul>
-                    <li><Link to="/">Home</Link></li>
-                    <li><Link to="/SignUp">Sign Up</Link></li>
                     <li><Link to="/Start">Start</Link></li>
+                    <li><Link to="/AboutUs">About Us</Link></li>
+                    <li><Link to="/SignUp">Sign Up</Link></li>
+                    
                 </ul>
 
                 <ul className="social">
