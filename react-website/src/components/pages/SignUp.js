@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ContactUs = () => {
+const SignUp = () => {
     return (
         <React.Fragment>
             <section className="content-container">
@@ -81,4 +81,4 @@ const ContactUs = () => {
     )
 }
 
-export default ContactUs;
+export default SignUp;

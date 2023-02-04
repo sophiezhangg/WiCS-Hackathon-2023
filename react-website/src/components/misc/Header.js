@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from "react-router-dom"
 import './Header.css'
 import Button from '@material-ui/core/Button'
 import { createTheme, ThemeProvider } from '@material-ui/core/styles'
@@ -24,7 +23,7 @@ const Header = () => {
                     <h2>Achieve higher education for greater success</h2>
                     <ThemeProvider theme={theme}>
                         <Button variant="outlined" color="primary">
-                            <Link to="/">Get Started</Link>
+                            <a href="https://utexas.qualtrics.com/jfe/form/SV_4UEDAq5XwQcxnh4">Click Here to Get Started</a>
                         </Button>
                     </ThemeProvider>
                 </div>

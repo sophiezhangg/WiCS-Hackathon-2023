@@ -11,9 +11,9 @@ const MenuBar = () => {
                 <label className="menu-icon" htmlFor="menu-btn"><span className="navicon"></span></label>
 
                 <ul className="menu">
-                    {/* <li><a href="/">Home</a></li> */}
-                    <li><a href="/AboutUs">About Us</a></li>
-                    <li><a href="/ContactUs">Contact Us</a></li>                
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/Start">Start</a></li>
+                    <li><a href="/SignUp">Sign Up</a></li>                
                 </ul>
             </div>
         </nav>
