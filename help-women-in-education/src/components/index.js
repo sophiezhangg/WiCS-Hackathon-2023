@@ -1,0 +1,1 @@
+export { default as NavigBar } from './navigbar/NavigBar'
