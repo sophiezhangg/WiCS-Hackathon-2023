@@ -6,6 +6,7 @@ const AboutUs = () => {
             <section className="content-container">
                 <div className="textArea"> 
                     <h2>About Us</h2>
+                    {/* align="left" image goes here */}
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mattis est dui. In id justo id orci ullamcorper sollicitudin. Pellentesque eget dui elementum risus posuere 
                         mollis. Vestibulum nisl arcu, maximus sed mi eget, elementum tempor augue. Vestibulum euismod rhoncus leo et pharetra. Suspendisse pellentesque dapibus tortor. Praesent 
