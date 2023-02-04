@@ -6,9 +6,9 @@ const NavigBar = () => {
   return (
    <Container>
     <Navbar className = "color-nav" variant="light">
-        <Container>
+        
           <Navbar.Brand href="#home">Brand link</Navbar.Brand>
-        </Container>
+        
         
     </Navbar>
    </Container>
