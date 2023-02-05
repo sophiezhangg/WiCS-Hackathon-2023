@@ -1,0 +1,31 @@
+id,age,education,experience,employment,out_of_education,fufillment,industry,literacy,math,science,technology,budget,hours_per_week,program_level,resource1,resource2,resource3
+1,40,some_college,computer science,student,23,exam,education,1,2,3,3,low,39,3,khan,edx,Princeton Review
+2,34,less_high_school,secretary,unemployed,10,personal,transportation,2,3,5,4,med,35,3,leetcode,coursera,Magoosh
+3,52,high_school,accountant,homemaker,3,personal,finance,3,4,4,5,med,20,3,edx,coursera,Princeton Review
+4,28,bachelors,homemaker,student,8,exam,education,3,1,2,4,med,23,3,khan,coursera,Magoosh
+5,34,less_high_school,service,unemployed,9,employment,transportation,5,5,3,3,low,24,4,edx,edx,Kaplan
+6,33,some_college,retail,unemployed,7,employment,finance,4,2,1,2,high,25,4,leetcode,coursera,Kaplan
+7,60,some_college,retail,homemaker,3,employment,transportation,1,3,2,1,high,10,5,edx,coursera,Magoosh
+8,78,high_school,computer science,homemaker,4,employment,finance,1,3,2,2,low,40,2,leetcode,edx,Kaplan
+9,62,high_school,farming,unemployed,45,exam,manufacturing,2,3,5,2,low,45,2,khan,coursera,Kaplan
+10,45,less_high_school,retail,homemaker,21,employment,finance,5,2,5,3,med,38,2,edx,edx,Magoosh
+11,24,less_high_school,retail,unemployed,2,exam,transportation,5,4,4,4,med,34,1,leetcode,coursera,Kaplan
+12,19,bachelors,retail,unable,13,personal,public_admin,4,5,4,5,med,35,3,edx,edx,Kaplan
+13,16,high_school,accountant,unemployed,4,exam,finance,4,4,3,3,med,32,1,khan,coursera,Kaplan
+14,20,less_high_school,homemaker,unable,3,exam,finance,4,4,3,2,high,36,2,leetcode,edx,Manhattan Prep
+15,49,high_school,teaching,homemaker,10,employment,transportation,3,1,3,1,low,31,4,leetcode,coursera,Magoosh
+16,40,some_college,computer science,student,23,exam,education,1,2,3,3,low,39,3,khan,openware,Magoosh
+17,34,less_high_school,secretary,unemployed,10,personal,transportation,2,3,5,4,med,35,3,leetcode,edx,Kaplan
+18,52,high_school,accountant,homemaker,3,personal,finance,3,4,4,5,med,20,3,edx,edx,Manhattan Prep
+19,28,bachelors,homemaker,student,8,exam,education,3,1,2,4,med,23,3,khan,coursera,Princeton Review
+20,34,less_high_school,service,unemployed,9,employment,transportation,5,5,3,3,low,24,4,leetcode,openware,Magoosh
+21,33,some_college,retail,unemployed,7,employment,finance,4,2,1,2,high,25,4,edx,edx,Kaplan
+22,60,some_college,retail,homemaker,3,employment,transportation,1,3,2,1,high,10,5,khan,coursera,Kaplan
+23,78,high_school,computer science,homemaker,4,employment,finance,1,3,2,2,low,40,2,leetcode,edx,Magoosh
+24,62,high_school,farming,unemployed,45,exam,manufacturing,2,3,5,2,low,45,2,edx,edx,Kaplan
+25,45,less_high_school,retail,homemaker,21,employment,finance,5,2,5,3,med,38,2,khan,coursera,Manhattan Prep
+26,24,less_high_school,retail,unemployed,2,exam,transportation,5,4,4,4,med,34,1,leetcode,edx,Kaplan
+27,19,bachelors,retail,unable,13,personal,public_admin,4,5,4,5,med,35,3,edx,edx,Princeton Review
+28,16,high_school,accountant,unemployed,4,exam,finance,4,4,3,3,med,32,1,khan,openware,Magoosh
+29,20,less_high_school,homemaker,unable,3,exam,finance,4,4,3,2,high,36,2,leetcode,edx,Kaplan
+30,49,high_school,teaching,homemaker,10,employment,transportation,3,1,3,1,low,31,4,khan,coursera,Kaplan
