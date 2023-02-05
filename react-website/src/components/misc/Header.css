@@ -1,14 +1,13 @@
 header{
     color: white;
-    background: #37387a;
-    background-image: url('../../images/background.jpg');
-    min-height: 50vh;
+    background: #9CC0E7;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.023), rgba(0, 0, 0, 0.5)), url('../../images/background.jpg');
+    min-height: 55vh;
     padding-top: 20vh;
     text-align: center;
     position: relative;
     z-index: 1;
     overflow: hidden;
-    opacity: 20%;
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
