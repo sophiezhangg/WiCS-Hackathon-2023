@@ -18,6 +18,9 @@ const Home = () => {
                         <li style={{marginBottom:"0.5em"}}>Generally, women drop out/slow their career due to being primary caregivers</li>
                     </ul>
                     <h2 style={{fontSize:"1.5em"}}>&nbsp;&nbsp;Head to the 'Start' tab to get started with WiCE.</h2>
+                    <p>
+                     With our personalized survey, women can receive recommendations for various courses, boot camps, and certifications based on their availability, interests, and education level. Our system classifies the needs of each participant and emails their results, which details a recommended lesson plan complete with resources from anything ranging from free code camps to college programs.
+                    </p>
                     <br></br>
                     <hr class = "blackLine"></hr>
                 <Feedback/>
