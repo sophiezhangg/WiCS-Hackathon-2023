@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from '../misc/Header'
 import Feedback from '../misc/Feedback'
+
 import './page.css'
 const Home = () => {
     return (

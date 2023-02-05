@@ -23,7 +23,7 @@ const Header = () => {
                     <h2>Continue your education no matter your past</h2>
                     <ThemeProvider theme={theme}>
                         <Button variant="outlined" color="primary">
-                            <a href="https://utexas.qualtrics.com/jfe/form/SV_4UEDAq5XwQcxnh4">Click Here to Get Started</a>
+                            <a href="https://utexas.qualtrics.com/jfe/form/SV_4UEDAq5XwQcxnh4">Get Started</a>
                         </Button>
                     </ThemeProvider>
                 </div>
