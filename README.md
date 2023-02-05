@@ -1,4 +1,4 @@
-# Women in Continuing Education
+# Women in Continued Education (WiCE)
 ## WiCS Hacks 2023
 [Devpost](https://devpost.com/software/wics-hacks-2023)
 - Slide deck: **TODO**
