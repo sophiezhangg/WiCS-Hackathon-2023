@@ -19,7 +19,7 @@ const Header = () => {
         <React.Fragment>
             <header className="bg-image">
                 <div className="bg-container">
-                    <h1>Women in Continuing Education</h1>
+                    <h1>Women in Continued Education</h1>
                     <h2>Continue your education no matter your past</h2>
                     <ThemeProvider theme={theme}>
                         <Button variant="outlined" color="primary">

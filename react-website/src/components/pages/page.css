@@ -1,0 +1,11 @@
+hr.blackLine {
+    border: 1px solid black;
+}
+
+br {
+    content: "";
+    margin: 9em;
+    display: block;
+    font-size: 24%;
+ }
+  
