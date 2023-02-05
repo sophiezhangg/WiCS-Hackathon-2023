@@ -28,7 +28,7 @@ const Feedback = () => {
                                 <textarea placeholder="Type your Message Here...." tabIndex="5" required></textarea>
                             </fieldset>
                             <fieldset>
-                                <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+                                <button style={{maxWidth:"90%"}} name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
                             </fieldset>
                         </form>
                         </div>   

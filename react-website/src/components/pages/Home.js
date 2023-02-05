@@ -19,7 +19,7 @@ const Home = () => {
                     </ul>
                     {/* <h2 style={{fontSize:"2em"}}>&nbsp;We understand, and we're here to help.</h2> */}
                     <h2 style={{fontSize:"1.5em"}}>&nbsp;&nbsp;Head to the 'Start' tab to get started with WiCE.</h2>
-                    <hr size="20" ></hr>
+                    <hr style={{maxWidth:"90%", alignSelf:"left", margin:"0"}} size="20" ></hr>
                 <Feedback/>
                 </div>
                 
